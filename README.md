@@ -8,6 +8,27 @@
 | :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:floppy_disk:](#floppy_disk-数据库) |[:coffee:](#coffee-java)| [:bulb:](#bulb-系统设计) |[:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践) |[:memo:](#memo-后记)|
 
+- campus_recruitmen_questions 主要内容如下：
+
+  * :trophy: [ACM（已更新200道）](#1)
+  * :triangular_flag_on_post: [剑指offer（已更新150道）](#2)
+  * :medal_military: [leetcode（已更新200道）](#3)
+  * :dart: [mysql（已更新100道）](#4)
+  * :crystal_ball: [redis（已更新50道）](#5)
+  * :airplane: [nginx（已更新32道）](#6)
+  * :loudspeaker: [语法语言（已更新87道）](#7)
+  * :hourglass: [网络原理（已更新36道）](#8)
+  * :sparkles: [网络编程（已更新25道）](#9)
+  * :desktop_computer: [操作系统（已更新18道）](#10)
+  * :floppy_disk: [编译原理（已更新5道）](#11)
+  * [并发](#14)
+  * [堆与栈](#15)
+  * [树](#16)
+  * [图](#17)
+  * [排序](#18)
+  * [字符串](#19)
+  * [作者福利](#22)
 
 ## 参考资料
 - [CS-Notes](https://github.com/jiet07/CS-Notes)
+- [campus_recruitmen_questions](https://github.com/jiet07/campus_recruitmen_questions)
